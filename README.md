@@ -2,6 +2,8 @@
 
 This is a rather quickly hacked together script to enable aggregating hours by person for each experiment in Notion.
 
+This script requires NodeJs v16
+
 To run this script:
 
 1. Create a `.env` file with a single value for `NOTION_KEY` - this is the key created when setting up a Notion integration.
