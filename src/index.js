@@ -143,7 +143,7 @@ async function execute() {
             return newValue;
         }, {});
 
-        console.log('>>>>>> experiment totals', experimentTotals);
+        // console.log('>>>>>> experiment totals', experimentTotals);
 
         return {
             experimentId: exp.pageId,
